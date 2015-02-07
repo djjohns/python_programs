@@ -1,0 +1,11 @@
+
+# comparison operators; looks at the variables but doesn't change them
+python		meaning
+ <		less than
+ <=		less than or equal
+ ==		equal to
+ >=		greater than or equal 
+ >		greater than
+ !=		not equal
+
+
