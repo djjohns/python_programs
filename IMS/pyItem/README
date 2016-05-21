@@ -1,0 +1,23 @@
+#============================================================
+# Fast Track Sites Inventory Management System              
+# Track your inventory with this easy to use program       
+#                                                   
+# Author: Paden Clayton                             
+#                                                   
+#============================================================
+
+Description:
+----------------------------------
+Fast Track Sites developed the Fast Track Sites Inventory Management System (FTSIMS) to better track our inventory, the code is based on pyWine and wordPy from http://www.learningpython.com the code is licensed under the GPL and is subject to its laws.
+
+FTSIMS lets you easily manage your current inventory, allowing easy categorization of items with a friendly and easy to use interface.
+
+
+All questions and comments are welcome, email me at sales@fasttracksites.com
+
+Installation:
+----------------------------------
+Extract the files to any directory
+From terminal run "python pyitem.py"
+Enjoy!
+

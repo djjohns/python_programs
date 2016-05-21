@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<types>
+		<TypeName>
+			Type1
+		</TypeName>
+		<TypeName>
+			Type2
+		</TypeName>
+		<TypeName>
+			Type3
+		</TypeName>
+	</types>
+</settings>
